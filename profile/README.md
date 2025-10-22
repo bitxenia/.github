@@ -6,8 +6,6 @@ Our goal is to **revive the original idea of the internet**: a collaborative, de
 
 By leveraging **peer-to-peer technologies**, we aim to provide the tools to build applications that are **resilient, open, and collectively owned**, empowering communities to create software that truly serves their members.
 
----
-
 ## Resources
 
 ### Final Report  
@@ -15,8 +13,6 @@ By leveraging **peer-to-peer technologies**, we aim to provide the tools to buil
 
 ### Wiki  
 - [Bitxenia Wiki](https://github.com/bitxenia/.github/wiki) — Concept notes and implementation details.
-
----
 
 ## Repositories
 
