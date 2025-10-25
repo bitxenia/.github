@@ -8,28 +8,13 @@ By leveraging **peer-to-peer technologies**, we aim to provide the tools to buil
 
 ## Resources
 
+### Documentation  
+- [**Bitxenia Docs**](https://github.com/bitxenia/docs) — Technical documentation of the Bitxenia ecosystem, including architecture, infrastructure layers, and implementation details.
+
 ### Final Report  
 - [*Ecosystem Analysis for Community-Oriented Platform-as-a-Service* (PDF)](https://github.com/bitxenia/informe-final/releases/download/1.0.2/informe-final.pdf) — Final report *(in Spanish)*: *“Análisis de ecosistemas para la implementación de plataformas como servicio para despliegue de aplicaciones comunitarias, distribuidas y descentralizadas.”*
 
-### Wiki  
-- [Bitxenia Wiki](https://github.com/bitxenia/.github/wiki) — Concept notes and implementation details.
+## Ecosystem
 
-## Repositories
-
-All repositories for the applications and packages developed under the Bitxenia ecosystem are organized as follows:
-
-### **IPFS**
-- [Astradb](https://github.com/bitxenia/astradb)
-- [Astrawiki](https://github.com/bitxenia/astrawiki)
-- [Astrachat](https://github.com/bitxenia/astraChat)
-- [Astrawiki Web Trusted Peer](https://github.com/bitxenia/astrawiki-web-trusted-peer)
-- [Astrawiki Collaborator](https://github.com/bitxenia/astrawiki-collaborator)
-
-### **ETH**
-- [Astrawiki ETH](https://github.com/bitxenia/astrawiki-eth)
-- [Astrachat ETH](https://github.com/bitxenia/astraChat-eth)
-
-### **Front-end**
-- [Astrawiki Web](https://github.com/bitxenia/astrawiki-web)
-- [Astrawiki CLI](https://github.com/bitxenia/astrawiki-cli)
-- [Astrachat CLI](https://github.com/bitxenia/astraChat-cli)
+Bitxenia is structured as a **modular ecosystem** built upon decentralized technologies such as **IPFS** and **Ethereum**, enabling communities to host, share, and govern their own applications.  
+Each repository within the organization represents a component of this ecosystem — from distributed storage and communication layers to collaborative applications like **Astrawiki** and **Astrachat**.
